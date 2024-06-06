@@ -43,8 +43,6 @@ linguakit tagger pt Camilo-Amor_de_Perdicao.txt > Camilo-Amor_de_Perdicao.tag
 
 ![title](extraction/4.png)
 
-![title](extraction/5.png)
-
 ![title](extraction/6.png)
 
 -- caso opte por não guardar o output em um arquivo, o mesmo executará no próprio terminal
